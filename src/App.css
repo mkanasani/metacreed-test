@@ -1,9 +1,9 @@
 /* Customize your main colors in :root variables */
 :root {
   --main-background-color: #343A50;
-  --card-background-color: #804980;
+  --card-background-color: linear-gradient(174deg, #406fbb 7%, rgba(0, 0, 0, 0.12) 20%, rgba(0, 0, 0, 0.3) 80%);
   --countdown-background-color: #433765;
-  --main-text-color:#F7F6F4;
+  --main-text-color:#ffffff;
   --title-text-color:#3CBA8B;
 }
 
@@ -11,12 +11,13 @@ body{
 /*  background-color:var(--main-background-color);*/
   background: url("img/background.png");
   background-size: cover;
-  font-family: 'Patrick Hand', cursive;
+  font-family: 'Conthrax Bold';
   font-size: 1.1em;
 }
 
 h2, p{
-  color: var(--main-text-color);
+  color: #0062ff;
+  font-size: 2.1em;
 }
 
 h3{
