@@ -70,6 +70,7 @@ const ConnectButton = styled(WalletMultiButton)`
   background-color: #4E44CE;
   margin: 0 auto;
   font-family: 'Conthrax Bold' !important;
+  src: url("/fonts/conthrax-bold.otf");
 `;
 
 const NFT = styled(Paper)`
