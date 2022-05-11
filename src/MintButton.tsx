@@ -13,6 +13,7 @@ export const CTAButton = styled(Button)`
   min-width: 120px !important;
   font-size: 1em !important;
   font-family: 'Conthrax Bold' !important;
+  src: url("/fonts/conthrax-bold.otf");
 `;
 
 export const MintButton = ({
