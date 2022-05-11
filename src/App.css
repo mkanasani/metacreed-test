@@ -12,6 +12,7 @@ body{
   background: url("img/background.png");
   background-size: cover;
   font-family: 'Conthrax Bold';
+  src: url("fonts/conthrax-bold.otf");
   font-size: 1.1em;
 }
 
